@@ -1,2 +1,0 @@
-# EducationDashboardWidget
-DailyItems
