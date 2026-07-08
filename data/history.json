@@ -1,0 +1,1462 @@
+{
+  "01-01": {
+    "date": "January 1",
+    "text": "In 1863, the Emancipation Proclamation took effect in the United States."
+  },
+  "01-02": {
+    "date": "January 2",
+    "text": "In 1920, Isaac Asimov, a writer known for science fiction and science essays, was born."
+  },
+  "01-03": {
+    "date": "January 3",
+    "text": "In 1959, Alaska became the 49th state of the United States."
+  },
+  "01-04": {
+    "date": "January 4",
+    "text": "In 1809, Louis Braille, creator of the Braille reading system, was born."
+  },
+  "01-05": {
+    "date": "January 5",
+    "text": "In 1933, construction began on the Golden Gate Bridge in San Francisco."
+  },
+  "01-06": {
+    "date": "January 6",
+    "text": "In 1838, Samuel Morse first publicly demonstrated the telegraph."
+  },
+  "01-07": {
+    "date": "January 7",
+    "text": "In 1610, Galileo observed several of Jupiter's moons."
+  },
+  "01-08": {
+    "date": "January 8",
+    "text": "In 1942, physicist Stephen Hawking was born."
+  },
+  "01-09": {
+    "date": "January 9",
+    "text": "In 2007, the first iPhone was introduced, changing the way many people use mobile technology."
+  },
+  "01-10": {
+    "date": "January 10",
+    "text": "In 1863, the first section of the London Underground opened."
+  },
+  "01-11": {
+    "date": "January 11",
+    "text": "In 1935, Amelia Earhart became the first person to fly solo from Hawaii to California."
+  },
+  "01-12": {
+    "date": "January 12",
+    "text": "In 1966, the television show Batman premiered in the United States."
+  },
+  "01-13": {
+    "date": "January 13",
+    "text": "In 1888, the National Geographic Society was founded."
+  },
+  "01-14": {
+    "date": "January 14",
+    "text": "In 1973, Elvis Presley's concert Aloha from Hawaii was broadcast by satellite."
+  },
+  "01-15": {
+    "date": "January 15",
+    "text": "In 1929, Martin Luther King Jr. was born in Atlanta, Georgia."
+  },
+  "01-16": {
+    "date": "January 16",
+    "text": "In 2003, Space Shuttle Columbia launched on its final mission."
+  },
+  "01-17": {
+    "date": "January 17",
+    "text": "In 1706, Benjamin Franklin was born in Boston."
+  },
+  "01-18": {
+    "date": "January 18",
+    "text": "In 1882, A. A. Milne, author of Winnie-the-Pooh, was born."
+  },
+  "01-19": {
+    "date": "January 19",
+    "text": "In 1809, writer Edgar Allan Poe was born."
+  },
+  "01-20": {
+    "date": "January 20",
+    "text": "In 1930, astronaut Buzz Aldrin was born."
+  },
+  "01-21": {
+    "date": "January 21",
+    "text": "In 1976, the Concorde began regular supersonic passenger service."
+  },
+  "01-22": {
+    "date": "January 22",
+    "text": "In 1984, Apple introduced the Macintosh computer."
+  },
+  "01-23": {
+    "date": "January 23",
+    "text": "In 1849, Elizabeth Blackwell became the first woman in the United States to earn a medical degree."
+  },
+  "01-24": {
+    "date": "January 24",
+    "text": "In 1848, gold was discovered at Sutter's Mill, helping begin the California Gold Rush."
+  },
+  "01-25": {
+    "date": "January 25",
+    "text": "In 1881, Thomas Edison and Alexander Graham Bell formed the Oriental Telephone Company."
+  },
+  "01-26": {
+    "date": "January 26",
+    "text": "In 1788, the First Fleet arrived in Australia."
+  },
+  "01-27": {
+    "date": "January 27",
+    "text": "In 1880, Thomas Edison received a patent for an electric lamp."
+  },
+  "01-28": {
+    "date": "January 28",
+    "text": "In 1813, Jane Austen's Pride and Prejudice was first published."
+  },
+  "01-29": {
+    "date": "January 29",
+    "text": "In 1886, Karl Benz patented a gasoline-powered automobile."
+  },
+  "01-30": {
+    "date": "January 30",
+    "text": "In 1948, Mahatma Gandhi was assassinated in India."
+  },
+  "01-31": {
+    "date": "January 31",
+    "text": "In 1958, Explorer 1 became the first U.S. satellite launched into space."
+  },
+  "02-01": {
+    "date": "February 1",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "02-02": {
+    "date": "February 2",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "02-03": {
+    "date": "February 3",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "02-04": {
+    "date": "February 4",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "02-05": {
+    "date": "February 5",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "02-06": {
+    "date": "February 6",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "02-07": {
+    "date": "February 7",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "02-08": {
+    "date": "February 8",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "02-09": {
+    "date": "February 9",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "02-10": {
+    "date": "February 10",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "02-11": {
+    "date": "February 11",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "02-12": {
+    "date": "February 12",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "02-13": {
+    "date": "February 13",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "02-14": {
+    "date": "February 14",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "02-15": {
+    "date": "February 15",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "02-16": {
+    "date": "February 16",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "02-17": {
+    "date": "February 17",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "02-18": {
+    "date": "February 18",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "02-19": {
+    "date": "February 19",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "02-20": {
+    "date": "February 20",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "02-21": {
+    "date": "February 21",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "02-22": {
+    "date": "February 22",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "02-23": {
+    "date": "February 23",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "02-24": {
+    "date": "February 24",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "02-25": {
+    "date": "February 25",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "02-26": {
+    "date": "February 26",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "02-27": {
+    "date": "February 27",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "02-28": {
+    "date": "February 28",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "03-01": {
+    "date": "March 1",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "03-02": {
+    "date": "March 2",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "03-03": {
+    "date": "March 3",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "03-04": {
+    "date": "March 4",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "03-05": {
+    "date": "March 5",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "03-06": {
+    "date": "March 6",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "03-07": {
+    "date": "March 7",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "03-08": {
+    "date": "March 8",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "03-09": {
+    "date": "March 9",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "03-10": {
+    "date": "March 10",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "03-11": {
+    "date": "March 11",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "03-12": {
+    "date": "March 12",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "03-13": {
+    "date": "March 13",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "03-14": {
+    "date": "March 14",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "03-15": {
+    "date": "March 15",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "03-16": {
+    "date": "March 16",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "03-17": {
+    "date": "March 17",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "03-18": {
+    "date": "March 18",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "03-19": {
+    "date": "March 19",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "03-20": {
+    "date": "March 20",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "03-21": {
+    "date": "March 21",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "03-22": {
+    "date": "March 22",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "03-23": {
+    "date": "March 23",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "03-24": {
+    "date": "March 24",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "03-25": {
+    "date": "March 25",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "03-26": {
+    "date": "March 26",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "03-27": {
+    "date": "March 27",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "03-28": {
+    "date": "March 28",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "03-29": {
+    "date": "March 29",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "03-30": {
+    "date": "March 30",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "03-31": {
+    "date": "March 31",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "04-01": {
+    "date": "April 1",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "04-02": {
+    "date": "April 2",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "04-03": {
+    "date": "April 3",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "04-04": {
+    "date": "April 4",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "04-05": {
+    "date": "April 5",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "04-06": {
+    "date": "April 6",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "04-07": {
+    "date": "April 7",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "04-08": {
+    "date": "April 8",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "04-09": {
+    "date": "April 9",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "04-10": {
+    "date": "April 10",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "04-11": {
+    "date": "April 11",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "04-12": {
+    "date": "April 12",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "04-13": {
+    "date": "April 13",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "04-14": {
+    "date": "April 14",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "04-15": {
+    "date": "April 15",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "04-16": {
+    "date": "April 16",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "04-17": {
+    "date": "April 17",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "04-18": {
+    "date": "April 18",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "04-19": {
+    "date": "April 19",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "04-20": {
+    "date": "April 20",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "04-21": {
+    "date": "April 21",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "04-22": {
+    "date": "April 22",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "04-23": {
+    "date": "April 23",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "04-24": {
+    "date": "April 24",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "04-25": {
+    "date": "April 25",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "04-26": {
+    "date": "April 26",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "04-27": {
+    "date": "April 27",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "04-28": {
+    "date": "April 28",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "04-29": {
+    "date": "April 29",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "04-30": {
+    "date": "April 30",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "05-01": {
+    "date": "May 1",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "05-02": {
+    "date": "May 2",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "05-03": {
+    "date": "May 3",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "05-04": {
+    "date": "May 4",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "05-05": {
+    "date": "May 5",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "05-06": {
+    "date": "May 6",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "05-07": {
+    "date": "May 7",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "05-08": {
+    "date": "May 8",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "05-09": {
+    "date": "May 9",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "05-10": {
+    "date": "May 10",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "05-11": {
+    "date": "May 11",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "05-12": {
+    "date": "May 12",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "05-13": {
+    "date": "May 13",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "05-14": {
+    "date": "May 14",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "05-15": {
+    "date": "May 15",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "05-16": {
+    "date": "May 16",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "05-17": {
+    "date": "May 17",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "05-18": {
+    "date": "May 18",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "05-19": {
+    "date": "May 19",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "05-20": {
+    "date": "May 20",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "05-21": {
+    "date": "May 21",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "05-22": {
+    "date": "May 22",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "05-23": {
+    "date": "May 23",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "05-24": {
+    "date": "May 24",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "05-25": {
+    "date": "May 25",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "05-26": {
+    "date": "May 26",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "05-27": {
+    "date": "May 27",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "05-28": {
+    "date": "May 28",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "05-29": {
+    "date": "May 29",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "05-30": {
+    "date": "May 30",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "05-31": {
+    "date": "May 31",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "06-01": {
+    "date": "June 1",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "06-02": {
+    "date": "June 2",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "06-03": {
+    "date": "June 3",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "06-04": {
+    "date": "June 4",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "06-05": {
+    "date": "June 5",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "06-06": {
+    "date": "June 6",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "06-07": {
+    "date": "June 7",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "06-08": {
+    "date": "June 8",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "06-09": {
+    "date": "June 9",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "06-10": {
+    "date": "June 10",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "06-11": {
+    "date": "June 11",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "06-12": {
+    "date": "June 12",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "06-13": {
+    "date": "June 13",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "06-14": {
+    "date": "June 14",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "06-15": {
+    "date": "June 15",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "06-16": {
+    "date": "June 16",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "06-17": {
+    "date": "June 17",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "06-18": {
+    "date": "June 18",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "06-19": {
+    "date": "June 19",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "06-20": {
+    "date": "June 20",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "06-21": {
+    "date": "June 21",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "06-22": {
+    "date": "June 22",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "06-23": {
+    "date": "June 23",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "06-24": {
+    "date": "June 24",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "06-25": {
+    "date": "June 25",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "06-26": {
+    "date": "June 26",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "06-27": {
+    "date": "June 27",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "06-28": {
+    "date": "June 28",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "06-29": {
+    "date": "June 29",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "06-30": {
+    "date": "June 30",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "07-01": {
+    "date": "July 1",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "07-02": {
+    "date": "July 2",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "07-03": {
+    "date": "July 3",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "07-04": {
+    "date": "July 4",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "07-05": {
+    "date": "July 5",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "07-06": {
+    "date": "July 6",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "07-07": {
+    "date": "July 7",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "07-08": {
+    "date": "July 8",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "07-09": {
+    "date": "July 9",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "07-10": {
+    "date": "July 10",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "07-11": {
+    "date": "July 11",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "07-12": {
+    "date": "July 12",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "07-13": {
+    "date": "July 13",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "07-14": {
+    "date": "July 14",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "07-15": {
+    "date": "July 15",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "07-16": {
+    "date": "July 16",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "07-17": {
+    "date": "July 17",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "07-18": {
+    "date": "July 18",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "07-19": {
+    "date": "July 19",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "07-20": {
+    "date": "July 20",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "07-21": {
+    "date": "July 21",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "07-22": {
+    "date": "July 22",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "07-23": {
+    "date": "July 23",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "07-24": {
+    "date": "July 24",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "07-25": {
+    "date": "July 25",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "07-26": {
+    "date": "July 26",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "07-27": {
+    "date": "July 27",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "07-28": {
+    "date": "July 28",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "07-29": {
+    "date": "July 29",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "07-30": {
+    "date": "July 30",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "07-31": {
+    "date": "July 31",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "08-01": {
+    "date": "August 1",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "08-02": {
+    "date": "August 2",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "08-03": {
+    "date": "August 3",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "08-04": {
+    "date": "August 4",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "08-05": {
+    "date": "August 5",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "08-06": {
+    "date": "August 6",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "08-07": {
+    "date": "August 7",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "08-08": {
+    "date": "August 8",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "08-09": {
+    "date": "August 9",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "08-10": {
+    "date": "August 10",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "08-11": {
+    "date": "August 11",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "08-12": {
+    "date": "August 12",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "08-13": {
+    "date": "August 13",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "08-14": {
+    "date": "August 14",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "08-15": {
+    "date": "August 15",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "08-16": {
+    "date": "August 16",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "08-17": {
+    "date": "August 17",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "08-18": {
+    "date": "August 18",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "08-19": {
+    "date": "August 19",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "08-20": {
+    "date": "August 20",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "08-21": {
+    "date": "August 21",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "08-22": {
+    "date": "August 22",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "08-23": {
+    "date": "August 23",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "08-24": {
+    "date": "August 24",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "08-25": {
+    "date": "August 25",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "08-26": {
+    "date": "August 26",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "08-27": {
+    "date": "August 27",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "08-28": {
+    "date": "August 28",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "08-29": {
+    "date": "August 29",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "08-30": {
+    "date": "August 30",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "08-31": {
+    "date": "August 31",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "09-01": {
+    "date": "September 1",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "09-02": {
+    "date": "September 2",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "09-03": {
+    "date": "September 3",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "09-04": {
+    "date": "September 4",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "09-05": {
+    "date": "September 5",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "09-06": {
+    "date": "September 6",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "09-07": {
+    "date": "September 7",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "09-08": {
+    "date": "September 8",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "09-09": {
+    "date": "September 9",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "09-10": {
+    "date": "September 10",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "09-11": {
+    "date": "September 11",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "09-12": {
+    "date": "September 12",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "09-13": {
+    "date": "September 13",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "09-14": {
+    "date": "September 14",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "09-15": {
+    "date": "September 15",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "09-16": {
+    "date": "September 16",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "09-17": {
+    "date": "September 17",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "09-18": {
+    "date": "September 18",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "09-19": {
+    "date": "September 19",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "09-20": {
+    "date": "September 20",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "09-21": {
+    "date": "September 21",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "09-22": {
+    "date": "September 22",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "09-23": {
+    "date": "September 23",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "09-24": {
+    "date": "September 24",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "09-25": {
+    "date": "September 25",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "09-26": {
+    "date": "September 26",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "09-27": {
+    "date": "September 27",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "09-28": {
+    "date": "September 28",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "09-29": {
+    "date": "September 29",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "09-30": {
+    "date": "September 30",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "10-01": {
+    "date": "October 1",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "10-02": {
+    "date": "October 2",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "10-03": {
+    "date": "October 3",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "10-04": {
+    "date": "October 4",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "10-05": {
+    "date": "October 5",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "10-06": {
+    "date": "October 6",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "10-07": {
+    "date": "October 7",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "10-08": {
+    "date": "October 8",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "10-09": {
+    "date": "October 9",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "10-10": {
+    "date": "October 10",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "10-11": {
+    "date": "October 11",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "10-12": {
+    "date": "October 12",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "10-13": {
+    "date": "October 13",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "10-14": {
+    "date": "October 14",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "10-15": {
+    "date": "October 15",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "10-16": {
+    "date": "October 16",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "10-17": {
+    "date": "October 17",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "10-18": {
+    "date": "October 18",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "10-19": {
+    "date": "October 19",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "10-20": {
+    "date": "October 20",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "10-21": {
+    "date": "October 21",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "10-22": {
+    "date": "October 22",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "10-23": {
+    "date": "October 23",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "10-24": {
+    "date": "October 24",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "10-25": {
+    "date": "October 25",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "10-26": {
+    "date": "October 26",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "10-27": {
+    "date": "October 27",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "10-28": {
+    "date": "October 28",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "10-29": {
+    "date": "October 29",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "10-30": {
+    "date": "October 30",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "10-31": {
+    "date": "October 31",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "11-01": {
+    "date": "November 1",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "11-02": {
+    "date": "November 2",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "11-03": {
+    "date": "November 3",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "11-04": {
+    "date": "November 4",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "11-05": {
+    "date": "November 5",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "11-06": {
+    "date": "November 6",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "11-07": {
+    "date": "November 7",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "11-08": {
+    "date": "November 8",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "11-09": {
+    "date": "November 9",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "11-10": {
+    "date": "November 10",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "11-11": {
+    "date": "November 11",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "11-12": {
+    "date": "November 12",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "11-13": {
+    "date": "November 13",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "11-14": {
+    "date": "November 14",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "11-15": {
+    "date": "November 15",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "11-16": {
+    "date": "November 16",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "11-17": {
+    "date": "November 17",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "11-18": {
+    "date": "November 18",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "11-19": {
+    "date": "November 19",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "11-20": {
+    "date": "November 20",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "11-21": {
+    "date": "November 21",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "11-22": {
+    "date": "November 22",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "11-23": {
+    "date": "November 23",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "11-24": {
+    "date": "November 24",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "11-25": {
+    "date": "November 25",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "11-26": {
+    "date": "November 26",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "11-27": {
+    "date": "November 27",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "11-28": {
+    "date": "November 28",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "11-29": {
+    "date": "November 29",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "11-30": {
+    "date": "November 30",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "12-01": {
+    "date": "December 1",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "12-02": {
+    "date": "December 2",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "12-03": {
+    "date": "December 3",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "12-04": {
+    "date": "December 4",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "12-05": {
+    "date": "December 5",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "12-06": {
+    "date": "December 6",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "12-07": {
+    "date": "December 7",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "12-08": {
+    "date": "December 8",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "12-09": {
+    "date": "December 9",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "12-10": {
+    "date": "December 10",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "12-11": {
+    "date": "December 11",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "12-12": {
+    "date": "December 12",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "12-13": {
+    "date": "December 13",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "12-14": {
+    "date": "December 14",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "12-15": {
+    "date": "December 15",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "12-16": {
+    "date": "December 16",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "12-17": {
+    "date": "December 17",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "12-18": {
+    "date": "December 18",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "12-19": {
+    "date": "December 19",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "12-20": {
+    "date": "December 20",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "12-21": {
+    "date": "December 21",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  },
+  "12-22": {
+    "date": "December 22",
+    "text": "In 1950, television was beginning to change how families learned about current events."
+  },
+  "12-23": {
+    "date": "December 23",
+    "text": "In 2000, the internet was becoming a regular part of school research and communication."
+  },
+  "12-24": {
+    "date": "December 24",
+    "text": "In 1890, inventors were developing new machines that changed daily life."
+  },
+  "12-25": {
+    "date": "December 25",
+    "text": "In 1970, environmental education became more common in schools and communities."
+  },
+  "12-26": {
+    "date": "December 26",
+    "text": "In 1980, personal computers began appearing in more homes, offices, and classrooms."
+  },
+  "12-27": {
+    "date": "December 27",
+    "text": "In 1990, digital tools started changing how people wrote, edited, and shared information."
+  },
+  "12-28": {
+    "date": "December 28",
+    "text": "In 1901, many schools and libraries were expanding access to books and learning for more people."
+  },
+  "12-29": {
+    "date": "December 29",
+    "text": "In 1969, the space age inspired students around the world to study science and engineering."
+  },
+  "12-30": {
+    "date": "December 30",
+    "text": "In 1800, newspapers helped people learn about events beyond their own towns."
+  },
+  "12-31": {
+    "date": "December 31",
+    "text": "In 1910, public libraries were becoming important community learning spaces."
+  }
+}
